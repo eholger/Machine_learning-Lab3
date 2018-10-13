@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # Lab 3: Bayes Classifier and Boosting
-#VF SPARAR DEN INTE ÖVER??!!!
+
 # ## Jupyter notebooks
 # 
 # In this lab, you can use Jupyter <https://jupyter.org/> to get a nice layout of your code and plots in one document. However, you may also use Python as usual, without Jupyter.
@@ -27,11 +27,6 @@ import random
 # 
 # The lab descriptions state what each function should do.
 
-def test():
-    for i in range(0,1):
-        count = 1
-
-    return count
 # NOTE: you do not need to handle the W argument for this part!
 # in: labels - N vector of class labels
 # out: prior - C x 1 vector of class priors
